@@ -1,0 +1,16 @@
+C:\Repositorio\Interpretador-expressoes\interpretador de expressões\interpretador de expressões\bin\Debug\net5.0\interpretador de expressões.exe
+C:\Repositorio\Interpretador-expressoes\interpretador de expressões\interpretador de expressões\bin\Debug\net5.0\interpretador de expressões.deps.json
+C:\Repositorio\Interpretador-expressoes\interpretador de expressões\interpretador de expressões\bin\Debug\net5.0\interpretador de expressões.runtimeconfig.json
+C:\Repositorio\Interpretador-expressoes\interpretador de expressões\interpretador de expressões\bin\Debug\net5.0\interpretador de expressões.runtimeconfig.dev.json
+C:\Repositorio\Interpretador-expressoes\interpretador de expressões\interpretador de expressões\bin\Debug\net5.0\interpretador de expressões.dll
+C:\Repositorio\Interpretador-expressoes\interpretador de expressões\interpretador de expressões\bin\Debug\net5.0\ref\interpretador de expressões.dll
+C:\Repositorio\Interpretador-expressoes\interpretador de expressões\interpretador de expressões\bin\Debug\net5.0\interpretador de expressões.pdb
+C:\Repositorio\Interpretador-expressoes\interpretador de expressões\interpretador de expressões\obj\Debug\net5.0\interpretador de expressões.csproj.AssemblyReference.cache
+C:\Repositorio\Interpretador-expressoes\interpretador de expressões\interpretador de expressões\obj\Debug\net5.0\interpretador de expressões.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\Interpretador-expressoes\interpretador de expressões\interpretador de expressões\obj\Debug\net5.0\interpretador de expressões.AssemblyInfoInputs.cache
+C:\Repositorio\Interpretador-expressoes\interpretador de expressões\interpretador de expressões\obj\Debug\net5.0\interpretador de expressões.AssemblyInfo.cs
+C:\Repositorio\Interpretador-expressoes\interpretador de expressões\interpretador de expressões\obj\Debug\net5.0\interpretador de expressões.csproj.CoreCompileInputs.cache
+C:\Repositorio\Interpretador-expressoes\interpretador de expressões\interpretador de expressões\obj\Debug\net5.0\interpretador de expressões.dll
+C:\Repositorio\Interpretador-expressoes\interpretador de expressões\interpretador de expressões\obj\Debug\net5.0\ref\interpretador de expressões.dll
+C:\Repositorio\Interpretador-expressoes\interpretador de expressões\interpretador de expressões\obj\Debug\net5.0\interpretador de expressões.pdb
+C:\Repositorio\Interpretador-expressoes\interpretador de expressões\interpretador de expressões\obj\Debug\net5.0\interpretador de expressões.genruntimeconfig.cache

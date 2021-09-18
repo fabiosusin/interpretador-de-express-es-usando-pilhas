@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interpretador de expressões", "interpretador de expressões\interpretador de expressões.csproj", "{66D180DA-01C3-445D-BA8B-226DB4CD3927}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66D180DA-01C3-445D-BA8B-226DB4CD3927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66D180DA-01C3-445D-BA8B-226DB4CD3927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66D180DA-01C3-445D-BA8B-226DB4CD3927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66D180DA-01C3-445D-BA8B-226DB4CD3927}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC380C74-C389-442E-9278-66682D62BE77}
+	EndGlobalSection
+EndGlobal
